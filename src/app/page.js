@@ -1,7 +1,8 @@
 import Image from 'next/image';
 import logo from './assets/images/android-chrome-192x192.png'
 import Navbar from './components/Navbar';
-import Hero from './components/Home/Hero';
+import Hero from './components/home/Hero';
+
 export default function Home() {
   return (
     <>
