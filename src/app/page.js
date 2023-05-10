@@ -9,7 +9,7 @@ export default function Home() {
       <div className="h-screen bg-cover bg-no-repeat bg-opacity-60 bg-[url('./assets/images/landscapehome.jpg')]">
         <div className='h-screen bg-cover bg-black bg-opacity-40'>
           {/* Início da NavBar */}
-          <Navbar />
+          <Navbar text_color="text-white"/>
           {/* Fim da NavBar */}
           {/* Início do Hero */}
           <Hero />

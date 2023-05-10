@@ -13,8 +13,8 @@ export default function Hero() {
           A maneira mais fácil <br />de encontrar o seu lar.
         </h5>
       </div>
-      <div className='mt-5 pt-6'>
-        <div className='flex justify-between'>
+      <div className="mt-24">
+        <div className="flex justify-between">
           <h5 className="text-3xl font-bold tracking-tight text-white sm:text-3xl">
             Melhores ofertas
           </h5>
